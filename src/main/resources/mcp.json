@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "sud-mcp-open-air1": {
+      "command": "java",
+      "args": [
+        "-jar",
+        "path to mcp jar/demo-mcp-api-connect-0.0.1-SNAPSHOT.jar"
+      ],
+      "env": {
+        "OPEN_AIR_API_KEY": "<YORK OPEN_AIR_API_KEY>"
+      },
+      "disabled": false,
+      "alwaysAllow": []
+    }
+  }
+}
